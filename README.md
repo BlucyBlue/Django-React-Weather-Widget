@@ -1,7 +1,11 @@
 # Django-React-Weather-Widget
 Demonstration of a Django-backend React-frontent app run with docker-compose
 
-To run, cd into the "Django-React-Weather-Widget", and:
+
+
+$ git clone https://github.com/BlucyBlue/Django-React-Weather-Widget.git
+
+$ cd Django-React-Weather-Widget/
 
 $ sudo docker-compose build
 
