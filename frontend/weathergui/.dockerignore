@@ -1,0 +1,6 @@
+.git
+.gitignore
+Dockerfile
+logs
+build
+node_modules
