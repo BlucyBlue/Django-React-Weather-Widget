@@ -10,5 +10,4 @@ COPY . .
 
 EXPOSE 8000
 
-#CMD ["python", "manage.py", "runserver"]
 CMD ["gunicorn", "weather.asgi:application", "-c", "gunicorn.py"]
